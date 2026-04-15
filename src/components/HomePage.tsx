@@ -22,9 +22,9 @@ const HomePage = ({ onNavigate }: HomePageProps) => {
             <p className="text-xs text-gold font-medium -mt-0.5">Smoke Shop</p>
           </div>
         </div>
-        <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-accent/10 border border-accent/20">
-          <span className="w-1.5 h-1.5 rounded-full bg-accent" />
-          <span className="text-[10px] font-medium text-accent">Open Now</span>
+        <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20">
+          <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
+          <span className="text-[10px] font-medium text-emerald-400">Open Now</span>
         </div>
       </div>
 
